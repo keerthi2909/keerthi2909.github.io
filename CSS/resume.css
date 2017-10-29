@@ -1,0 +1,144 @@
+.img-responsive{
+  height:375px;
+  width:490px;
+}
+
+.background{
+  background-image: url(./img/bg-1.jpg);
+}
+.bg1{
+  background-color: #424242;
+  height:120px;
+  color:white;
+  padding:20px;
+}
+.padding-0{
+  padding-left:0;
+}
+.bg2{
+  background-color: #2E2E2E;
+  height:120px;
+  color:white;
+  padding:20px;
+}
+.logo{
+  color: #fafafa;
+  font-size: 30px;
+  padding:10px;
+  font-weight: lighter;
+  padding-top:30px;
+}
+.logo1-bg{
+  background-color: #26a69a;
+}
+.logo2-bg{
+  background-color: #29b6f6;
+}
+.logo3-bg{
+  background-color:#d500f9;
+}
+.logo4-bg{
+  background-color: #f4511e;
+}
+.logo5-bg{
+  background-color: #ffb300;
+}
+.colsm2{
+  height:136px;
+  width:20%;
+  text-align: center;
+}
+
+.reshead{
+  background-color: #29b6f6;
+  color:white;
+  padding:20px 100px;
+
+}
+.fachead{
+  background-color: white;
+  color:black;
+
+  text-align:center;
+  font-family: monospace;
+}
+
+   .pqhead{
+     background-color: #ede7f6;
+     color:black;
+     padding:20px 100px;
+     text-align:center;
+     font-family: monospace;
+   }
+   .pqhead h4{
+     font-weight: lighter;
+     font-family:cursive;
+   }
+   .pqlogo{
+     color: orange;
+     font-size: 40px;
+     padding:10px;
+     font-weight: lighter;
+     padding-top:30px;
+   }
+   .tmhead1{
+     background-color: white;
+     color:black;
+     padding:20px 50px;
+     text-align:center;
+     font-family: monospace;
+   }
+
+   .imgname1 h5{
+     position:absolute;
+     left:30px;
+     top:6px;
+     background-color: #757575;
+     color:white;
+     padding:5px;
+   }
+
+  .imgname2 h5{
+    position:absolute;
+    left:99px;
+    top:8px;
+    background-color: #757575;
+    color:white;
+    padding:5px;
+  }
+
+ .imgname3 h5{
+   position:absolute;
+   left:100px;
+   top:6px;
+   background-color: #757575;
+   color:white;
+   padding:5px;
+ }
+
+ h5:hover{
+   background-color:#ff7043;
+ }
+
+ .univ-logo{
+   color: orange;
+   font-size: 200px;
+   padding-top:80px;
+ }
+.cert{
+  background-color: #2E2E2E;
+  color:white;
+}
+.certlogo{
+  text-align:left;
+  color:#b71c1c;
+  font-size:20px;
+  padding-left:50px;
+
+}
+.certpara{
+  font-size:12px;
+}
+.viewcert{
+
+}
